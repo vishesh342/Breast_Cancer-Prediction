@@ -1,2 +1,2 @@
-# PROJECT_MINOR_ML_JULY_AUGUST
+# Cancer Prediction
 Prediction of Breast cancer using RandomForestClassifier
